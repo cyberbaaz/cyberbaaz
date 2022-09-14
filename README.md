@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Android App
-- 🌱 I’m currently learning Kotlin
+- 🔭 I’m currently working on CEHv11 certification.
+- 🌱 I’m currently learning DSA
 - 💬 Ask me about Networking,Security,Python,Automation
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kshitijsurwar/) , [Gmail](ksh09itij@gmail.com)
 - ⚡ Fun fact: I can Rap,play guitar and write songs.
